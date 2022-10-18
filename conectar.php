@@ -9,7 +9,7 @@ $conectioninfo2= array("DataBase" => "BDFloresCo", "UID"=>"sa", "PWD"=>"Coin#202
 $conectar2 = sqlsrv_connect($servername,$conectioninfo2);
 
 
-// if ($conectar== false)
+ if ($conectar== false)
 // {
 // echo "Fallo la conexion";
 // die(print_r(sqlsrv_errors(), true));
