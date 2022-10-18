@@ -1,4 +1,5 @@
-            <nav class="navbar fixed-top navbar-toggleable-md navbar-expand-lg scrolling-navbar double-nav bg-custom">
+           
+           <nav class="navbar fixed-top navbar-toggleable-md navbar-expand-lg scrolling-navbar double-nav bg-custom">
             <div class="container-fluid">
                 <div class="mr-auto hamburger" id="sidebarCollapse" >
                     <div class="bar"></div>
