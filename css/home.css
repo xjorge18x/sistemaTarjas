@@ -1,0 +1,26 @@
+	table#mitabla {
+    border-collapse: collapse;
+    border: 1px solid #CCC;
+    font-size: 12px;
+    height: 3cm;
+    width: 12cm;
+	}
+	table#mitabla td {
+    padding: 5px 10px;
+	}
+	table#mitabla span{
+	font-size: 15px;
+	font-weight: bold;
+	letter-spacing: 8pt;
+	
+	}
+	table#mitabla h6{
+	font-size: 12px;
+	text-align: right;
+	
+	}
+	table#mitabla h5{
+	font-size: 10px;
+	text-align: left;
+	
+	}
